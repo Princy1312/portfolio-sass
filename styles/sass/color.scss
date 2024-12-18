@@ -1,0 +1,31 @@
+
+$primary-color:rgb(0, 0, 0);
+$secandary-color:rgba(128, 128, 128, 0.671);
+$lien-color: white;
+$liste-color:white;
+$text-color: black;
+
+
+.bloc{
+    background: $primary-color;
+}
+.div2{
+    background: $secandary-color;
+    color: $text-color;
+   
+}
+img{
+filter: drop-shadow(2px 2px 20px grey);
+}
+a{
+color:$lien-color;
+}
+ul li{
+color: $liste-color;
+}
+
+
+
+
+
+

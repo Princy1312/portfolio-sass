@@ -1,0 +1,113 @@
+.bloc {
+  background: rgb(0, 0, 0);
+}
+
+.div2 {
+  background: rgba(128, 128, 128, 0.671);
+  color: black;
+}
+
+img {
+  filter: drop-shadow(2px 2px 20px grey);
+}
+
+a {
+  color: white;
+}
+
+ul li {
+  color: white;
+}
+
+ul li {
+  margin: 2rem;
+  margin-left: -1rem;
+}
+
+section {
+  margin-left: 300px;
+  padding-left: 50px;
+  font-size: 2rem;
+}
+
+.div2 {
+  padding: 3rem;
+  margin-top: -1rem;
+  margin-bottom: -1rem;
+  height: 102rem;
+}
+@media screen and (max-width: 700px) {
+  .div2 h1 {
+    font-size: 1.5rem;
+  }
+}
+a {
+  text-decoration: none;
+}
+
+ul li {
+  list-style: none;
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+section {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1rem;
+}
+
+img {
+  border-radius: 120px;
+}
+@media screen and (max-width: 700px) {
+  img {
+    border-radius: 120px;
+    width: 50px;
+    height: auto;
+    margin-right: 1%;
+  }
+}
+.bloc {
+  width: 233px;
+  padding: 2rem;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  position: fixed;
+}
+@media screen and (max-width: 700px) {
+  .bloc {
+    height: 200vh;
+    width: 210px;
+  }
+}
+.section2 {
+  margin-left: 300px;
+  padding-left: 50px;
+  margin-top: 9rem;
+}
+
+.section4 {
+  margin-left: 300px;
+  padding-left: 50px;
+}
+
+@media screen and (max-width: 700px) {
+  .section5 li {
+    font-size: 1rem;
+  }
+}
+@media screen and (max-width: 700px) {
+  .section5 li i {
+    font-size: 2rem;
+  }
+}
+.section3 {
+  margin-left: 300px;
+  padding-left: 50px;
+}
+
+/*# sourceMappingURL=style.css.map */

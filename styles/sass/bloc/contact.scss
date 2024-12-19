@@ -1,10 +1,10 @@
 .section5{
-   li{ @include responsive(700px){
+   li{ @include responsive(400px){
        font-size: 1rem;
     
     }
     i{
-        @include responsive(700px){
+        @include responsive(400px){
             font-size: 2rem;
         
         }

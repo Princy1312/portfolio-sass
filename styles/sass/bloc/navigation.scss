@@ -6,9 +6,9 @@
     left: 0;
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
 position: fixed;
-@include responsive(700px){
-    height: 200vh;
-    width: 210px;
+@include responsive(400px){
+    height: 400vh;
+    width: 100px;
 }
 }
 
